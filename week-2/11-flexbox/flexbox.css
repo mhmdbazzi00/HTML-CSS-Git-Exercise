@@ -1,1 +1,8 @@
 /* Add your own CSS code below */
+.container {
+  display: flex;
+}
+.container.left {
+  display: flex;
+  flex-direction: row-reverse;
+}
