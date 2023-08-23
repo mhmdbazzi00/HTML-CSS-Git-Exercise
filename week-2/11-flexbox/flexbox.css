@@ -1,8 +1,8 @@
 /* Add your own CSS code below */
-.container {
+.countries {
   display: flex;
 }
-.container.left {
+.countries--first {
   display: flex;
   flex-direction: row-reverse;
 }
