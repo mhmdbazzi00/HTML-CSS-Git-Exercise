@@ -25,6 +25,9 @@
   .views {
     display: flex;
   }
+  .views__all {
+    margin-left: auto;
+  }
 
   .view-list__item {
     margin-right: 50px;
